@@ -48,7 +48,7 @@ node client.js
 
 By default, the client will listen on `localhost` via port `9000`. which is what was duplicated from the `.env.example` file and also what is defined in the RPC server config assuming all configuration are left as default.
 
-## Conlusion
+## Conclusion
 
 I would normally explain what every line does. But, I do not have the mental bandwidth to do so at the moment.
 You can take a look at the hero image at the top, my IDE did its best to explain what each parameter does.
