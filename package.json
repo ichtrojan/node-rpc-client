@@ -1,0 +1,24 @@
+{
+  "name": "rpc-client",
+  "version": "1.0.0",
+  "description": "A RPC client to call a gRPC server ",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ichtrojan/node-rpc-client.git"
+  },
+  "author": "Michael Okoh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ichtrojan/node-rpc-client/issues"
+  },
+  "homepage": "https://github.com/ichtrojan/node-rpc-client#readme",
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "grpc": "^1.24.2",
+    "node-grpc-client": "^1.4.0"
+  }
+}
