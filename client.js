@@ -4,7 +4,7 @@ const GRPCClient = require('node-grpc-client')
 
 const path = require("path")
 
-const PROTO_PATH = path.resolve(__dirname, 'chat.proto')
+const PROTO_PATH = path.resolve(__dirname, './proto/chat.proto')
 
 dotenv.config()
 
