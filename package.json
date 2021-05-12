@@ -18,7 +18,7 @@
   "homepage": "https://github.com/ichtrojan/node-rpc-client#readme",
   "devDependencies": {
     "dotenv": "^8.2.0",
-    "grpc": "^1.24.2",
+    "grpc": "^1.24.9",
     "node-grpc-client": "^1.4.0"
   }
 }
